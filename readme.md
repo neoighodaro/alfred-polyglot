@@ -1,10 +1,9 @@
-# alfred-polyglot [![npm](https://img.shields.io/npm/v/alfred-polyglot.svg)](https://npmjs.org/package/alfred-polyglot)
+# alfred-polyglot-fork [![npm](https://img.shields.io/npm/v/alfred-polyglot-fork.svg)](https://npmjs.org/package/alfred-polyglot-fork)
 
 > Translate text using Google Translate in Alfred
 
 ![Preview gif](media/preview.gif)
 
-[Alfred forum thread](https://www.alfredforum.com/topic/11235-polyglot-yet-another-google-translate-workflow/)
 
 ## Install
 
@@ -53,5 +52,5 @@ The output will be translated `text`. Both `from` and `to` parameters are option
 
 
 ## License
-MIT © [neoighodaro](https://neoighodaro.com)
-MIT © [nikersify](https://nikerino.com)
+- MIT © [neoighodaro](https://neoighodaro.com)
+- MIT © [nikersify](https://nikerino.com)
