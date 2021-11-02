@@ -9,7 +9,7 @@
 ## Install
 
 ```
-$ npm install --global alfred-polyglot
+$ npm install --global alfred-polyglot-fork
 ```
 
 *Requires [Node.js](https://nodejs.org) 7.6+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
