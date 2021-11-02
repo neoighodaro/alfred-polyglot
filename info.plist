@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.nikerino.polyglot</string>
+	<string>sh.neo.polyglot</string>
 	<key>category</key>
 	<string>Tools</string>
 	<key>connections</key>
