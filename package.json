@@ -1,13 +1,13 @@
 {
-  "name": "alfred-polyglot",
-  "version": "1.4.0",
+  "name": "alfred-polyglot-2",
+  "version": "2.0.0",
   "description": "Translate text with ease using Google Translate",
   "license": "MIT",
-  "repository": "nikersify/alfred-trans",
+  "repository": "neoighodaro/alfred-polyglot-2",
   "author": {
-    "name": "nikersify",
-    "email": "nikersifyyt@gmail.com",
-    "url": "nikerino.com"
+    "name": "Neo",
+    "email": "09_aged.grandee@icloud.com",
+    "url": "https://neoighodaro.com"
   },
   "engines": {
     "node": ">=7.6"
