@@ -55,4 +55,5 @@ The output will be translated `text`. Both `from` and `to` parameters are option
 ## License
 
 MIT © [neoighodaro](https://neoighodaro.com)
+
 MIT © [nikersify](https://nikerino.com)
