@@ -1,9 +1,9 @@
 {
-  "name": "alfred-polyglot-2",
+  "name": "alfred-polyglot-fork",
   "version": "2.0.0",
   "description": "Translate text with ease using Google Translate",
   "license": "MIT",
-  "repository": "neoighodaro/alfred-polyglot-2",
+  "repository": "neoighodaro/alfred-polyglot-fork",
   "author": {
     "name": "Neo",
     "email": "09_aged.grandee@icloud.com",
